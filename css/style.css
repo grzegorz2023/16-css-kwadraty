@@ -1,0 +1,18 @@
+#kwadraty {
+    width: 400px;
+    height: 850px;
+    background-color: #808080;
+}
+.kwadrat {
+    
+    width: 150px;
+    height: 150px;
+    background-color: #fea500;
+    margin-left: 40px;
+}
+p {
+    margin-left: 28px;
+    color: white;
+}
+
+
