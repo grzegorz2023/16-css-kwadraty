@@ -1,7 +1,6 @@
 #kwadraty {
-    width: 400px;
-    height: 850px;
-    background-color: #808080;
+    margin-left: 28px;
+    color: white;   
 }
 .kwadrat {
     
@@ -10,9 +9,10 @@
     background-color: #fea500;
     margin-left: 40px;
 }
-p {
-    margin-left: 28px;
-    color: white;
+.box {
+    width: 400px;
+    height: 850px;
+    background-color: #808080;
 }
 
 
